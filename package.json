@@ -1,5 +1,13 @@
 {
   "name": "drug-predictor-app",
+  "description": "A demo drug-interaction predictor with a React frontend, FastAPI backend, and Electron desktop app.",
+  "keywords": [
+    "drug-interaction",
+    "healthcare-demo",
+    "fastapi",
+    "react",
+    "electron"
+  ],
   "private": true,
   "version": "0.0.0",
   "type": "module",
